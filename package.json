@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/axiomware/MultiSensor-file-Async.git"
+    "url": "git+https://github.com/axiomware/multisensor-file-async.git"
   },
   "keywords": [
     "Netrunr Bluetooth Gateway",
@@ -17,9 +17,9 @@
   "author": "Axiomware Systems Inc <swdev@axiomware.com> (http://www.axiomware.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/axiomware/MultiSensor-file-Async/issues"
+    "url": "https://github.com/axiomware/multisensor-file-async/issues"
   },
-  "homepage": "https://github.com/axiomware/MultiSensor-file-Async#readme",
+  "homepage": "https://github.com/axiomware/multisensor-file-async#readme",
   "dependencies": {
     "chalk": "^2.3.0",
     "clui": "^0.3.6",
