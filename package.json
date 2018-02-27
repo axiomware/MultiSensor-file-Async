@@ -1,0 +1,33 @@
+{
+  "name": "multisensor-file-async",
+  "version": "1.0.0",
+  "description": "Collect data from multiple sensors of two different types (SensorTag CC2650 and Sensirion SHT31 Smart Gadget)",
+  "main": "appMultiSensorFileAsync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axiomware/MultiSensor-file-Async.git"
+  },
+  "keywords": [
+    "Netrunr Bluetooth Gateway",
+    "Bluetooth Low Energy"
+  ],
+  "author": "Axiomware Systems Inc <swdev@axiomware.com> (http://www.axiomware.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axiomware/MultiSensor-file-Async/issues"
+  },
+  "homepage": "https://github.com/axiomware/MultiSensor-file-Async#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "clui": "^0.3.6",
+    "cmdify": "0.0.4",
+    "figlet": "^1.2.0",
+    "inquirer": "^5.0.1",
+    "netrunr-gapi-async": "^1.0.1",
+    "preferences": "^1.0.2",
+    "terminal-kit": "^1.14.3"
+  }
+}
